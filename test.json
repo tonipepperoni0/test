@@ -1,4 +1,16 @@
-{
-  "num": 25,
-  "hehe": true
-}
+[
+    {
+        "title": "tytuł",
+        "children": {
+            "text": "someText",
+            "input": "someInputTitle: *"
+        }
+    },
+    {
+        "title": "tytuł2",
+        "children": {
+            "text": "someText2",
+            "input": "someInputTitle2: *"
+        }
+    }
+]
