@@ -17,7 +17,8 @@
         "title": "tytuł 3",
         "children": {
             "text": "someText 3",
-            "input": "someInputTitle 3: *"
+            "input": "someInputTitle 3: *",
+            "rozwijalny": "hehe"
         }
     }
 ]
