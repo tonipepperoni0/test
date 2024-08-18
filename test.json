@@ -7,10 +7,17 @@
         }
     },
     {
-        "title": "tytuł2",
+        "title": "tytuł 2",
         "children": {
-            "text": "someText2",
-            "input": "someInputTitle2: *"
+            "text": "someText 2",
+            "input": "someInputTitle 2: *"
+        }
+    },
+    {
+        "title": "tytuł 3",
+        "children": {
+            "text": "someText 3",
+            "input": "someInputTitle 3: *"
         }
     }
 ]
