@@ -18,7 +18,13 @@
         "children": {
             "text": "someText 3",
             "input": "someInputTitle 3: *",
-            "rozwijalny": "hehe"
+            "rozwijalny": {
+                "title": "inside title",
+                "children": {
+                    "input": "inside input:",
+                    "text": "inside text"
+                }
+            }
         }
     }
 ]
