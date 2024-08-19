@@ -16,13 +16,23 @@
     {
         "title": "tytuł 3",
         "children": {
-            "text": "someText 3",
-            "input": "someInputTitle 3: *",
             "rozwijalny": {
                 "title": "inside title",
                 "children": {
                     "input": "inside input:",
                     "text": "inside text"
+                }
+            }
+        }
+    },
+    {
+        "title": "tytuł 4",
+        "children": {
+            "rozwijalny": {
+                "title": "inside title 1",
+                "children": {
+                    "input": "inside input 1:",
+                    "text": "inside text 1"
                 }
             }
         }
