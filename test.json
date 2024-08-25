@@ -27,13 +27,15 @@
         "title": "tytuł 3",
         "children": {
             "rozwijalny": {
-                "text": "Tekst 3",
-                "checkboxes": [
-                    "raz",
-                    "dwa",
-                    "trzy",
-                    "cztery"
-                ]
+                "children": {
+                    "text": "Tekst 3",
+                    "checkboxes": [
+                        "raz",
+                        "dwa",
+                        "trzy",
+                        "cztery"
+                    ]
+                }
             }
         }
     },
@@ -65,13 +67,15 @@
         "title": "tytuł 3",
         "children": {
             "rozwijalny": {
-                "text": "Tekst 3",
-                "checkboxes": [
-                    "raz",
-                    "dwa",
-                    "trzy",
-                    "cztery"
-                ]
+                "children": {
+                    "text": "Tekst 3",
+                    "checkboxes": [
+                        "raz",
+                        "dwa",
+                        "trzy",
+                        "cztery"
+                    ]
+                }
             }
         }
     }
