@@ -1,51 +1,77 @@
 [
     {
-        "title": "tytuł",
+        "title": "TYTUŁ",
         "children": {
-            "text": "someText",
-            "input": "someInputTitle: *"
-        }
-    },
-    {
-        "title": "tytuł 2",
-        "children": {
-            "text": "someText 2",
-            "input": "someInputTitle 2: *"
+            "rozwijalny": {
+                "title": "tytuł 1",
+                "children": {
+                    "text": "Tekst 1",
+                    "radioBtns": [
+                        "raz",
+                        "dwa",
+                        "trzy",
+                        "cztery"
+                    ]
+                }
+            },
+            "rozwijalny": {
+                "title": "tytuł 2",
+                "children": {
+                    "text": "Tekst 2",
+                    "input": "nagłóweł"
+                }
+            }
         }
     },
     {
         "title": "tytuł 3",
         "children": {
             "rozwijalny": {
-                "title": "inside title",
+                "text": "Tekst 3",
+                "checkboxes": [
+                    "raz",
+                    "dwa",
+                    "trzy",
+                    "cztery"
+                ]
+            }
+        }
+    },
+    {
+        "title": "TYTUŁ",
+        "children": {
+            "rozwijalny": {
+                "title": "tytuł 1",
                 "children": {
-                    "input": "inside input:",
-                    "text": "inside text"
+                    "text": "Tekst 1",
+                    "radioBtns": [
+                        "raz",
+                        "dwa",
+                        "trzy",
+                        "cztery"
+                    ]
+                }
+            },
+            "rozwijalny": {
+                "title": "tytuł 2",
+                "children": {
+                    "text": "Tekst 2",
+                    "input": "nagłóweł"
                 }
             }
         }
     },
     {
-        "title": "tytuł 4",
+        "title": "tytuł 3",
         "children": {
             "rozwijalny": {
-                "title": "inside title 1",
-                "children": {
-                    "text": "inside text 1",
-                    "checkboxes": ["one", "two", "three"]
-                }
-            }
-        }
-    },
-    {
-        "title": "tytuł 5",
-        "children": {
-            "rozwijalny": {
-                "title": "inside title 2",
-                "children": {
-                    "text": "inside text 2",
-                    "radioBtns": ["one", "two", "three"]
-                }
+                "text": "Tekst 3",
+                "checkboxes": [
+                    "raz",
+                    "dwa",
+                    "trzy",
+                    "cztery"
+                ]
             }
         }
     }
