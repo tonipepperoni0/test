@@ -36,5 +36,17 @@
                 }
             }
         }
+    },
+    {
+        "title": "tytuł 5",
+        "children": {
+            "rozwijalny": {
+                "title": "inside title 2",
+                "children": {
+                    "text": "inside text 2",
+                    "radioBtns": ["one", "two", "three"]
+                }
+            }
+        }
     }
 ]
