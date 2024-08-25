@@ -1,84 +1,38 @@
 [
     {
         "title": "TYTUŁ 1",
-        "children": {
-            "rozwijalny": {
-                "title": "podtytuł 1",
-                "children": {
-                    "text": "podtekst 1",
-                    "radioBtns": [
-                        "raz",
-                        "dwa",
-                        "trzy",
-                        "cztery"
+        "children": [
+            {
+                "rozwijalny": {
+                    "title": "podtytuł 1",
+                    "children": [
+                        {
+                            "text": "podtekst 1"
+                        },
+                        {
+                            "radioBtns": [
+                                "raz",
+                                "dwa",
+                                "trzy",
+                                "cztery"
+                            ]
+                        }
                     ]
                 }
             },
-            "rozwijalny": {
-                "title": "podtytuł 1.5",
-                "children": {
-                    "text": "podtekst 1.5",
-                    "input": "nagłóweł:"
-                }
-            }
-        }
-    },
-    {
-        "title": "TYTUŁ 2",
-        "children": {
-            "rozwijalny": {
-                "title": "podytuł 2",
-                "children": {
-                    "text": "Tekst 2",
-                    "checkboxes": [
-                        "raz",
-                        "dwa",
-                        "trzy",
-                        "cztery"
+            {
+                "rozwijalny": {
+                    "title": "podtytuł 1.5",
+                    "children": [
+                        {
+                            "text": "podtekst 1.5"
+                        },
+                        {
+                            "input": "nagłóweł:"
+                        }
                     ]
                 }
             }
-        }
-    },
-    {
-        "title": "TYTUŁ 3",
-        "children": {
-            "rozwijalny": {
-                "title": "podtytuł 3",
-                "children": {
-                    "text": "podtekst 3",
-                    "radioBtns": [
-                        "raz",
-                        "dwa",
-                        "trzy",
-                        "cztery"
-                    ]
-                }
-            },
-            "rozwijalny": {
-                "title": "podtytuł 3.5",
-                "children": {
-                    "text": "podtekst 3.5",
-                    "input": "nagłóweł"
-                }
-            }
-        }
-    },
-    {
-        "title": "TYTUŁ 4",
-        "children": {
-            "rozwijalny": {
-                "children": {
-                    "title": "podtytuł 4",
-                    "text": "podtekst 4",
-                    "checkboxes": [
-                        "pinć",
-                        "sześć",
-                        "siedem",
-                        "osiem"
-                    ]
-                }
-            }
-        }
+        ]
     }
 ]
