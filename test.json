@@ -1,11 +1,11 @@
 [
     {
-        "title": "TYTUŁ",
+        "title": "TYTUŁ 1",
         "children": {
             "rozwijalny": {
-                "title": "tytuł 1",
+                "title": "podtytuł 1",
                 "children": {
-                    "text": "Tekst 1",
+                    "text": "podtekst 1",
                     "radioBtns": [
                         "raz",
                         "dwa",
@@ -15,20 +15,21 @@
                 }
             },
             "rozwijalny": {
-                "title": "tytuł 2",
+                "title": "podtytuł 1.5",
                 "children": {
-                    "text": "Tekst 2",
-                    "input": "nagłóweł"
+                    "text": "podtekst 1.5",
+                    "input": "nagłóweł:"
                 }
             }
         }
     },
     {
-        "title": "tytuł 3",
+        "title": "TYTUŁ 2",
         "children": {
             "rozwijalny": {
+                "title": "podytuł 2",
                 "children": {
-                    "text": "Tekst 3",
+                    "text": "Tekst 2",
                     "checkboxes": [
                         "raz",
                         "dwa",
@@ -40,12 +41,12 @@
         }
     },
     {
-        "title": "TYTUŁ",
+        "title": "TYTUŁ 3",
         "children": {
             "rozwijalny": {
-                "title": "tytuł 1",
+                "title": "podtytuł 3",
                 "children": {
-                    "text": "Tekst 1",
+                    "text": "podtekst 3",
                     "radioBtns": [
                         "raz",
                         "dwa",
@@ -55,25 +56,26 @@
                 }
             },
             "rozwijalny": {
-                "title": "tytuł 2",
+                "title": "podtytuł 3.5",
                 "children": {
-                    "text": "Tekst 2",
+                    "text": "podtekst 3.5",
                     "input": "nagłóweł"
                 }
             }
         }
     },
     {
-        "title": "tytuł 3",
+        "title": "TYTUŁ 4",
         "children": {
             "rozwijalny": {
                 "children": {
-                    "text": "Tekst 3",
+                    "title": "podtytuł 4",
+                    "text": "podtekst 4",
                     "checkboxes": [
-                        "raz",
-                        "dwa",
-                        "trzy",
-                        "cztery"
+                        "pinć",
+                        "sześć",
+                        "siedem",
+                        "osiem"
                     ]
                 }
             }
