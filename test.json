@@ -34,5 +34,28 @@
                 }
             }
         ]
+    },
+    {
+        "title": "TYTUŁ 2",
+        "children": [
+            {
+                "rozwijalny": {
+                    "title": "podtytuł 2",
+                    "children": [
+                        {
+                            "text": "podtekst 2"
+                        },
+                        {
+                            "radioBtns": [
+                                {"raz": ["jeden", "jednego", "jedyny"]},
+                                {"dwa": ["dwoje", "dwojako", "podwójnie"]},
+                                {"trzy": ["trojaki", "potrójnie", "trzeci"]},
+                                {"cztery": ["czterech", "czwartego", "czwarty"]}
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
     }
 ]
