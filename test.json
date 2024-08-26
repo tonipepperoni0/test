@@ -28,7 +28,12 @@
                             "text": "podtekst 1.5"
                         },
                         {
-                            "input": "nagłóweł:"
+                            "checkboxes": [
+                                "qwe",
+                                "wer",
+                                "ert",
+                                "rty"
+                            ]
                         }
                     ]
                 }
@@ -89,9 +94,27 @@
                         },
                         {
                             "radioBtns": [
-                                "one",
-                                "two",
-                                "three"
+                                {
+                                    "one": [
+                                        "asd",
+                                        "sdf",
+                                        "dgf"
+                                    ]
+                                },
+                                {
+                                    "two": [
+                                        "fgh",
+                                        "ghj",
+                                        "hjk"
+                                    ]
+                                },
+                                {
+                                    "three": [
+                                        "jkl",
+                                        "zcx",
+                                        "xcv"
+                                    ]
+                                }
                             ]
                         }
                     ]
