@@ -47,10 +47,51 @@
                         },
                         {
                             "radioBtns": [
-                                {"raz": ["jeden", "jednego", "jedyny"]},
-                                {"dwa": ["dwoje", "dwojako", "podwójnie"]},
-                                {"trzy": ["trojaki", "potrójnie", "trzeci"]},
-                                {"cztery": ["czterech", "czwartego", "czwarty"]}
+                                {
+                                    "raz": [
+                                        "jeden",
+                                        "jednego",
+                                        "jedyny"
+                                    ]
+                                },
+                                {
+                                    "dwa": [
+                                        "dwoje",
+                                        "dwojako",
+                                        "podwójnie"
+                                    ]
+                                },
+                                {
+                                    "trzy": [
+                                        "trojaki",
+                                        "potrójnie",
+                                        "trzeci"
+                                    ]
+                                },
+                                {
+                                    "cztery": [
+                                        "czterech",
+                                        "czwartego",
+                                        "czwarty"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "rozwijalny": {
+                    "title": "podtytuł 2.5",
+                    "children": [
+                        {
+                            "text": "podtekst 2.5"
+                        },
+                        {
+                            "radioBtns": [
+                                "one",
+                                "two",
+                                "three"
                             ]
                         }
                     ]
